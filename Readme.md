@@ -5,7 +5,7 @@ PHP + Nginx + MySQL
 インストール済み
 
 #ファイル置き場
-appディレクトリ配下に置いてください。
+appディレクトリ配下に置いて下記のコマンドを実行。
 
 ```
 docker-compose up -d
