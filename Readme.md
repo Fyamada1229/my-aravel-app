@@ -8,7 +8,7 @@ PHP + Nginx + MySQL
 docker-compose up -d
 ```
 
-lravelを作成する際にはプロジェクト名は**app**にする。名前を変更する際、
+laravelを作成する際にはプロジェクト名は**app**にする。名前を変更する際、
 ```
 my-aravel-app/docker/web/default.conf
 ```
