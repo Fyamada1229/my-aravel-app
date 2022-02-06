@@ -2,10 +2,15 @@
 PHP + Nginx + MySQL
 
 #ファイル置き場
-appディレクトリ配下に置いて下記のコマンドを実行。
+お好きなディレクトリ配下に置いて下記のコマンドを実行。
 
 ```
 docker-compose up -d
 ```
 
-#
+lravelを作成する際には、プロジェクト名をappにする。名前を変更する際には、
+```
+my-aravel-app/docker/web/default.conf
+```
+default.confに書いてあるコメント箇所を変更する。
+
