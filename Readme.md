@@ -1,4 +1,4 @@
-#LAMP環境構築
+#LEMP環境構築
 PHP + Nginx + MySQL
 
 #ファイル置き場
