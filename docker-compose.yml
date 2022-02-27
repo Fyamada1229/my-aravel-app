@@ -21,8 +21,8 @@ services:
     image: mysql:5.7
     container_name: mysql
     environment:
-      MYSQL_DATABASE: todo
-      MYSQL_USER: yamada
+      MYSQL_DATABASE: api
+      MYSQL_USER: root
       MYSQL_PASSWORD: yamada
       MYSQL_ROOT_PASSWORD: yamada
       TZ: "Asia/Tokyo"
