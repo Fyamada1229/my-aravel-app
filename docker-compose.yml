@@ -22,7 +22,7 @@ services:
     container_name: mysql
     environment:
       MYSQL_DATABASE: api
-      MYSQL_USER: root
+      MYSQL_USER: user
       MYSQL_PASSWORD: yamada
       MYSQL_ROOT_PASSWORD: yamada
       TZ: "Asia/Tokyo"
